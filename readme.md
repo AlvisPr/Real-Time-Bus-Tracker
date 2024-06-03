@@ -19,4 +19,7 @@ Some additional features or improvements that could be made to enhance the Real-
 - Improving the user interface and adding additional visual elements.
 
 ## License Information
-This project is licensed under the MIT License. See the [license](./license for details)
+This project is licensed under the MIT License. See it [here](./license)
+
+## Screenshots
+![MAP ScreenShoot](./Screenshoots/Screenshot%20.png)
