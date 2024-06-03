@@ -11,6 +11,7 @@ The Real-Time Bus Tracker is a web application that tracks the movement of a bus
 To run the Real-Time Bus Tracker on your machine:
 1. Clone this repository to your local machine.
 2. Open the `index.html` file in your web browser. You can also use liveServer addon. 
+3. At first it won't work. Go to mapanimation.js and search for const ACCESS_TOKEN = ''. Provide your token from mapbox there. 
 
 ## Roadmap of Future Improvements
 Some additional features or improvements that could be made to enhance the Real-Time Bus Tracker:

@@ -1,5 +1,5 @@
 // Constants
-const ACCESS_TOKEN = 'pk.eyJ1IjoiYWx2aXNwIiwiYSI6ImNsd3Vld3prNzBnaW8yc3Nna21tbXEyODkifQ.4KdRoGFwRx0MQN8rXaawoQ';
+const ACCESS_TOKEN = '';
 const ICON_SIZE = '30px';
 
 // Bus stops coordinates
